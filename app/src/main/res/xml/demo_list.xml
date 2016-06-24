@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Viewpager">
+        <Preference
+            android:key="normal"
+            android:summary="a simple demo"
+            android:title="normal coverflow" />
+    </PreferenceCategory>
+</PreferenceScreen>
